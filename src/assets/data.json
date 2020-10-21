@@ -1,0 +1,46 @@
+{
+    "elements": [
+        {
+            "title": "Termine",
+            "hColor": "#E4E53F",
+            "eColor1": "#F4F7C8",
+            "eColor2": "#F5F2B3",
+            "icon": "icons/calendar.png"
+        },
+        {
+            "title": "Geburtstage",
+            "hColor": "#739D55",
+            "eColor1": "#CED9C0",
+            "eColor2": "#C8D7B7",
+            "icon": "icons/present.png"
+        },
+        {
+            "title": "Feiertage",
+            "hColor": "#5ABCE1",
+            "eColor1": "#D0ECF7",
+            "eColor2": "#C0E4F3",
+            "icon": "icons/holiday.png"
+        },
+        {
+            "title": "Einkaufsliste",
+            "hColor": "#626467",
+            "eColor1": "#DBDBDB",
+            "eColor2": "#D3D3D3",
+            "icon": "icons/shopping-list.png"
+        },
+        {
+            "title": "Aufgaben",
+            "hColor": "#EF6E58",
+            "eColor1": "#FBD0C0",
+            "eColor2": "#F8C4BB",
+            "icon": "icons/task-list.png"
+        }
+    ],
+    "empty": {
+        "title": "Empty",
+        "hColor": "#626467",
+        "eColor1": "#DBDBDB",
+        "eColor2": "#D3D3D3",
+        "icon": "icons/empty.png"
+    }
+}
